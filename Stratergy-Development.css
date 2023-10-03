@@ -1,0 +1,301 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/gold-silver-chess-chess-board-game-business-metaphor-leadership-concept.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 489px;
+  height: 392px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 1;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: 109px auto 0 55px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 55px;
+  height: 54px;
+  margin: -192px auto 0 305px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -137px 96px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 534px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -140px;
+    margin-right: 22px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 113px;
+    margin-left: -33px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -196px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -356px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 269px;
+    height: 269px;
+    margin-top: 110px;
+    margin-left: 42px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 34px;
+    height: 33px;
+    margin-top: -131px;
+    margin-left: 181px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -270px;
+    margin-right: 12px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 267px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 36px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  width: 764px;
+  margin: 36px auto 35px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 920px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 43px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 20px 0 468px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 382px;
+  height: 693px;
+  margin: -721px auto 60px 43px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1018px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-right: 0;
+    margin-left: 402px;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 694px;
+    margin-top: -890px;
+    margin-bottom: -516px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 816px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: -1122px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 249px;
+    height: 407px;
+    margin-top: -376px;
+    margin-bottom: 60px;
+    margin-left: -18px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 872px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-image-1 {
+    height: 406px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1318px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 430px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 30px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 26px 30px 0 485px;
+}
+
+.u-section-4 .u-text-3 {
+  margin: -209px 694px 0 30px;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 30px 694px 0 30px;
+}
+
+.u-section-4 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 67px auto 60px 135px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 618px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+    margin-left: 315px;
+  }
+
+  .u-section-4 .u-text-3 {
+    width: auto;
+    margin-top: 43px;
+    margin-right: 305px;
+    margin-left: 219px;
+  }
+
+  .u-section-4 .u-text-4 {
+    width: auto;
+    margin-top: 25px;
+    margin-right: 313px;
+    margin-left: 211px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 20px;
+    margin-left: 354px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-text-2 {
+    width: auto;
+    margin-top: 21px;
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+
+  .u-section-4 .u-text-3 {
+    width: 416px;
+    margin-top: 26px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-text-4 {
+    width: 416px;
+    margin-top: 21px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-top: 39px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-3 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-text-4 {
+    width: 340px;
+  }
+}

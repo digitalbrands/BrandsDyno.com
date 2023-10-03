@@ -1,0 +1,279 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/social-media-marketing-concept-marketing-with-applications.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 610px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 316px;
+  height: 321px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 1;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: 110px 59px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 115px;
+  height: 59px;
+  margin: -190px 160px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -59px 442px 60px 51px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 502px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 137px;
+    margin-right: 81px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: 182px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -245px;
+    margin-right: 364px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: -293px 142px 141px 33px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 410px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 143px 21px 5px 82px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 398px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 26px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: auto;
+    margin-left: 102px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 131px 0 13px 5px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 870px;
+}
+
+.u-section-2 .u-text-1 {
+  width: 865px;
+  margin: 32px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 17px 429px 0 17px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 366px;
+  height: 522px;
+  margin: -590px 28px -700px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 989px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 400px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 521px;
+    margin-top: -662px;
+    margin-right: 17px;
+    margin-bottom: -397px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 845px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 26px;
+    margin-bottom: 32px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 20px;
+    margin-bottom: initial;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-bottom: -700px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 808px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 484px;
+    margin-right: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 584px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 32px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 25px 478px 0 16px;
+}
+
+.u-section-3 .u-text-3 {
+  margin: -405px 25px 0 662px;
+}
+
+.u-section-3 .u-text-4 {
+  margin: 43px 25px 0 662px;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 51px 143px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 630px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 470px;
+    margin-left: 17px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin-top: 0;
+    margin-right: 200px;
+    margin-left: 287px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 7px;
+    margin-right: 67px;
+    margin-bottom: 9px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-3 {
+    margin-right: 267px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 90px;
+    margin-left: 177px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-3 {
+    margin-right: 87px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-right: 0;
+    margin-left: 87px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-left: 0;
+  }
+}

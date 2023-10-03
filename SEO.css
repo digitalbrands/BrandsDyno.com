@@ -1,0 +1,336 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/businessman-holding-virtual-download-icon-progress-increasing-value-added-business-product-service-concept.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 593px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 241px;
+  height: 241px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 1;
+  --animation-custom_in-rotate: 180deg;
+  --animation-custom_in-scale: 1;
+  margin: 165px auto 0 86px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 154px;
+  height: 68px;
+  margin: -154px auto 0 130px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -154px 68px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-1 .u-image-1 {
+    animation-duration: 10000ms;
+    margin-top: 130px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+    margin-right: -28px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -275px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 414px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 144px;
+    margin-left: 44px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -253px;
+    margin-right: 19px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 416px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 123px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -263px;
+    margin-right: auto;
+    margin-left: 10px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 782px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 20px auto 0 388px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 28px 388px 0 59px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 313px;
+  height: 426px;
+  margin: -543px 28px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 966px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 320px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 352px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -542px;
+    margin-right: 11px;
+    margin-bottom: -343px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1349px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 245px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 324px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -1003px;
+    margin-right: 20px;
+    margin-bottom: 383px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 822px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 24px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 24px;
+    margin-right: 0;
+    margin-bottom: -467px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -543px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1247px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-bottom: -42px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 20px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 490px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 33px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 25px 706px 0 15px;
+}
+
+.u-section-3 .u-text-3 {
+  margin: -29px 40px 0 434px;
+}
+
+.u-section-3 .u-text-4 {
+  margin: -242px 715px 0 15px;
+}
+
+.u-section-3 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 63px auto 60px 142px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 663px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: 331px;
+    margin-right: 502px;
+    margin-left: 19px;
+  }
+
+  .u-section-3 .u-text-3 {
+    width: auto;
+    margin-top: -341px;
+    margin-right: 0;
+    margin-left: 275px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin-top: 78px;
+    margin-right: 507px;
+    margin-left: 24px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 24px;
+    margin-left: 151px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 621px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 340px;
+    margin-right: 123px;
+    margin-left: 178px;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-left: 55px;
+  }
+
+  .u-section-3 .u-text-4 {
+    margin-top: 81px;
+    margin-right: 311px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 28px;
+    margin-left: auto;
+    margin-bottom: -249px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 603px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 419px;
+    margin-top: 346px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -353px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: 409px;
+    margin-top: 110px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: 21px;
+    margin-bottom: -195px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 764px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: 451px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-text-3 {
+    margin-top: -508px;
+  }
+
+  .u-section-3 .u-text-4 {
+    width: auto;
+    margin-top: 92px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-bottom: -281px;
+  }
+}
